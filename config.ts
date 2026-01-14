@@ -17,7 +17,7 @@ export const IMAGES = {
   
   // Fotos dos Singles/Álbuns
   singles: [
-    { name: "AQUECIMENTODO LUCK REIS", streams: "+ 520 MIL", img: "https://media.discordapp.net/attachments/1345747864130945105/1461015737861804196/imagem_2026-01-14_121452869.png?ex=69690470&is=6967b2f0&hm=29dfdc57457e37175361f9eb703b20b1d921a1b7d7af00cbaeef2e74c80aed8c&=&format=webp&quality=lossless" },
+    { name: "AQUECIMENTO DO LUCK REIS", streams: "+ 520 MIL", img: "https://media.discordapp.net/attachments/1345747864130945105/1461015737861804196/imagem_2026-01-14_121452869.png?ex=69690470&is=6967b2f0&hm=29dfdc57457e37175361f9eb703b20b1d921a1b7d7af00cbaeef2e74c80aed8c&=&format=webp&quality=lossless" },
     { name: "DESANDE DOS PERDIDOS", streams: "+ 280 MIL", img: "https://media.discordapp.net/attachments/1345747864130945105/1461016033505706168/7f0d0534-365d-4ca9-ad64-c3e5ff600b7f.png?ex=696904b6&is=6967b336&hm=fa0952cd70acbd7ffed02d453b2e0e6099c25210873cdddb4afdbee75ba86df0&=&format=webp&quality=lossless" },
     { name: "VEM VEM REBOLANDO", streams: "+ 200 MIL", img: "https://media.discordapp.net/attachments/1345747864130945105/1461020274786041938/imagem_2026-01-14_123254080.png?ex=696908a9&is=6967b729&hm=775c1be0734e19e7910a3b582b485c665f266355bf112f717b06bcf2b3a3955d&=&format=webp&quality=lossless" },
     { name: "MARRETADA DE MEL", streams: "+ 130 MIL", img: "https://media.discordapp.net/attachments/1345747864130945105/1461020682132652124/4800e9d3-5432-4f47-b74e-91f6cafa06e3.png?ex=6969090b&is=6967b78b&hm=433be15d8960d756985454149f68c30d0e8812b295620f9ee438e6dc61e9530d&=&format=webp&quality=lossless" },
